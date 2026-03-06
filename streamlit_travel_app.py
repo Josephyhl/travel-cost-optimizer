@@ -1,11 +1,10 @@
 """
 Travel Cost Optimizer — Streamlit Web Application
-==================================================
+-------------------------------------------------
 A visual interface for finding the cheapest flight + hotel combinations
 within a flexible date window, powered by the Amadeus API.
 
 Setup
------
     pip install streamlit amadeus pandas plotly
 
     export AMADEUS_API_KEY="your_key"
