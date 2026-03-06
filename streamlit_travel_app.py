@@ -280,7 +280,7 @@ def main() -> None:
     st.title("✈️ Travel Cost Optimizer")
     st.caption("Find the cheapest flight + hotel combo within your flexible date window.")
 
-    # ── Sidebar inputs ──────────────────────────────────────────────────
+    # Sidebar inputs:
     with st.sidebar:
         st.header("Search Parameters")
 
